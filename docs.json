@@ -1,0 +1,87 @@
+{
+  "subtitle": "IES X Curs 2026-2027",
+  "tags": [
+    {
+      "name": "2n ESO",
+      "color": "#ff6b6b"
+    },
+    {
+      "name": "3r ESO",
+      "color": "#4ecdc4"
+    },
+    {
+      "name": "4t ESO",
+      "color": "#fdcb6e"
+    },
+    {
+      "name": "1r Bat",
+      "color": "#e84393"
+    },
+    {
+      "name": "2n Bat",
+      "color": "#6c5ce7"
+    },
+    {
+      "name": "Física",
+      "color": "#0984e3"
+    },
+    {
+      "name": "Química",
+      "color": "#00cec9"
+    },
+    {
+      "name": "apunts",
+      "color": "#a29bfe"
+    },
+    {
+      "name": "exàmens",
+      "color": "#f9ca24"
+    },
+    {
+      "name": "exercicis",
+      "color": "#00b894"
+    },
+    {
+      "name": "solucions",
+      "color": "#fd79a8"
+    },
+    {
+      "name": "presentacions",
+      "color": "#e17055"
+    },
+    {
+      "name": "material",
+      "color": "#74b9ff"
+    },
+    {
+      "name": "Divulgació",
+      "color": "#f39c12"
+    },
+    {
+      "name": "Altres",
+      "color": "#b2bec3"
+    }
+  ],
+  "docs": [
+    {
+      "id": "mrep16mnxnal",
+      "nombre": "ckio",
+      "url": "ckio.jpg",
+      "desc": "Es coki",
+      "icono": "🖼️",
+      "visible": true,
+      "tags": [
+        "Altres"
+      ],
+      "fecha": "2026-07-10T08:48:25.296Z"
+    }
+  ],
+  "links": [
+    {
+      "nombre": "PhET Colorado",
+      "url": "https://phet.colorado.edu/es/",
+      "desc": "Simulacions interactives de ciència",
+      "icono": "🔬"
+    }
+  ]
+}
