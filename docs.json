@@ -64,6 +64,18 @@
   ],
   "docs": [
     {
+      "id": "msd991sgqla3",
+      "nombre": "SobreLaVaga",
+      "url": "SobreLaVaga.pdf",
+      "desc": "Vaga",
+      "icono": "📄",
+      "visible": true,
+      "tags": [
+        "1r Bat"
+      ],
+      "fecha": "2026-08-03T13:24:41.621Z"
+    },
+    {
       "id": "msd9gspv1d52",
       "nombre": "Vacants_Supr_Despl_Secundaria_2",
       "url": "Vacants_Supr_Despl_Secundaria_2.pdf",
