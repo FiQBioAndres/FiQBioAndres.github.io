@@ -62,7 +62,20 @@
       "color": "#b2bec3"
     }
   ],
-  "docs": [],
+  "docs": [
+    {
+      "id": "mrep16mnxnal",
+      "nombre": "ckio",
+      "url": "ckio.jpg",
+      "desc": "Es coki",
+      "icono": "🖼️",
+      "visible": true,
+      "tags": [
+        "Altres"
+      ],
+      "fecha": "2026-08-03T13:07:01.520Z"
+    }
+  ],
   "links": [
     {
       "nombre": "PhET Colorado",
