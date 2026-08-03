@@ -62,20 +62,7 @@
       "color": "#b2bec3"
     }
   ],
-  "docs": [
-    {
-      "id": "msd9gspv1d52",
-      "nombre": "Vacants_Supr_Despl_Secundaria_2",
-      "url": "Vacants_Supr_Despl_Secundaria_2.pdf",
-      "desc": "Vscants",
-      "icono": "📄",
-      "visible": true,
-      "tags": [
-        "Altres"
-      ],
-      "fecha": "2026-08-03T13:24:36.067Z"
-    }
-  ],
+  "docs": [],
   "links": [
     {
       "nombre": "PhET Colorado",
