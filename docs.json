@@ -62,7 +62,20 @@
       "color": "#b2bec3"
     }
   ],
-  "docs": [],
+  "docs": [
+    {
+      "id": "msd9ujc2bhxo",
+      "nombre": "_Astérix 14_ - Astérix en H_ _z-library.sk_ 1lib.sk_ z-lib.sk_",
+      "url": "_Astérix 14_ - Astérix en H_ _z-library.sk_ 1lib.sk_ z-lib.sk_.pdf",
+      "desc": "Asterix",
+      "icono": "📄",
+      "visible": true,
+      "tags": [
+        "Altres"
+      ],
+      "fecha": "2026-08-03T13:35:17.090Z"
+    }
+  ],
   "links": [
     {
       "nombre": "PhET Colorado",
