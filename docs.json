@@ -62,20 +62,7 @@
       "color": "#b2bec3"
     }
   ],
-  "docs": [
-    {
-      "id": "msd8cls5v3ml",
-      "nombre": "SobreLaVaga",
-      "url": "SobreLaVaga.pdf",
-      "desc": "Vaga stepv",
-      "icono": "📄",
-      "visible": true,
-      "tags": [
-        "3r ESO"
-      ],
-      "fecha": "2026-08-03T12:53:25.190Z"
-    }
-  ],
+  "docs": [],
   "links": [
     {
       "nombre": "PhET Colorado",
