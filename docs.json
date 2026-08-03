@@ -62,18 +62,7 @@
       "color": "#b2bec3"
     }
   ],
-  "docs": [
-    {
-      "id": "mrtfmslf6ema",
-      "nombre": "Examen T4 ",
-      "url": "Examen T4 .pdf",
-      "desc": "",
-      "icono": "📄",
-      "visible": true,
-      "tags": [],
-      "fecha": "2026-07-20T16:21:50.019Z"
-    }
-  ],
+  "docs": [],
   "links": [
     {
       "nombre": "PhET Colorado",
