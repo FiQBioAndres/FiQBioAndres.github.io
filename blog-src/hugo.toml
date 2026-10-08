@@ -1,4 +1,5 @@
 baseURL = "https://fiqbioandres.github.io/blog/"
+timeZone = "Europe/Madrid"
 title = "FiQBio · Materials i Notícies"
 theme = "PaperMod"
 defaultContentLanguage = "ca"
