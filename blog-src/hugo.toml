@@ -1,0 +1,30 @@
+baseURL = "https://fiqbioandres.github.io/blog/"
+title = "FiQBio · Materials i Notícies"
+theme = "PaperMod"
+defaultContentLanguage = "ca"
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  author = "Andrés M.C."
+  description = "Materials didàctics i notícies de ciència i educació"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  mainSections = ["materiales", "noticias"]
+  [params.homeInfoParams]
+    Title = "Materials i Notícies"
+    Content = "Recursos de Física i Química i notícies de ciència i educació."
+
+[menu]
+  [[menu.main]]
+    name = "Materials"
+    url = "/materiales/"
+    weight = 10
+  [[menu.main]]
+    name = "Notícies"
+    url = "/noticias/"
+    weight = 20
