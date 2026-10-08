@@ -82,6 +82,12 @@
       "url": "https://phet.colorado.edu/es/",
       "desc": "Simulacions interactives de ciència",
       "icono": "🔬"
+    },
+    {
+      "nombre": "Blog de FiQBio",
+      "url": "https://fiqbioandres.github.io/blog/",
+      "desc": "Materials i notícies de ciència i educació",
+      "icono": "📝"
     }
   ]
 }
