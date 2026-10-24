@@ -62,20 +62,7 @@
       "color": "#b2bec3"
     }
   ],
-  "docs": [
-    {
-      "id": "msd991sgqla3",
-      "nombre": "SobreLaVaga",
-      "url": "SobreLaVaga.pdf",
-      "desc": "Vaga",
-      "icono": "📄",
-      "visible": true,
-      "tags": [
-        "1r Bat"
-      ],
-      "fecha": "2026-08-04T20:09:33.500Z"
-    }
-  ],
+  "docs": [],
   "links": [
     {
       "nombre": "PhET Colorado",
